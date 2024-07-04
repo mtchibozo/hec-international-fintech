@@ -1,4 +1,5 @@
-## HEC International FinTech Program (2022, Patrick Legland)
+## HEC International FinTech Program
+with Patrick Legland
 
 Course materials:
 
